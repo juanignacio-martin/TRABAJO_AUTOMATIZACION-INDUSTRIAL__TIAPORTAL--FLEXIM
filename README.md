@@ -11,4 +11,4 @@ Se describirá el diseño de la planta con todos sus procesos y elementos necesa
 
 Se realiza mediante TIA PORTAL la programacion  de una de las celdas junto co su correspondiente simulacion para comprobar su funcionamiento.
 
-Se realiza en FLEXIM la simulacion total de la planta con los tiempos reales de fabricacion y procesos.
+Se realiza en FLEXIM la simulacion total de la planta con los tiempos reales de fabricacion y procesos, todo esto orientado a un sistema de fabricacion flexible FMS
